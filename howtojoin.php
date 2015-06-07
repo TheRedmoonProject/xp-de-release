@@ -90,9 +90,9 @@
 		<!-- /.container-fluid -->
 	</nav>
 
-
+<div class="container">
 <--! CONTENT !!!!!!!!!!!!!!!!!!! -->
-	
+</div>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script	src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<!-- Include all compiled plugins (below), or include individual files as needed -->
