@@ -313,16 +313,15 @@
           <div class="timeline-badge"><i>2002</i></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title">Löningen --> Schmilka (41 Etappen)</h4>
-              <p><small class="text-muted">13.08. – 18.08.</small></p>
+              <h4 class="timeline-title">Haren (Ems) --> Sebnitz (44 Etappen)</h4>
+              <p><small class="text-muted">17.8. – 21.8.</small></p>
             </div>
             <div class="timeline-body">
               <p>
               	<ul>
-              		<li>Aktion Wolfgang Eisel und Tinkastute Cally</li>
-              		<li>Fähre auf Elbe bei Ferchland</li>
-              		<li>Erdwespen bei Jörg Leiste</li>
-              		<li>Motorschaden von Hansi’s Pferdetransporter in Autobahnbaustelle (Vollsperrung)</li>
+              		<li>Pony Express Hymne von Helga Lumer geschrieben</li>
+              		<li>Einsatz von Katrin Zeggert - <a href="http://www.halfter.de/postritt.htm">Link</a></li>
+              		<li>Elbehochwasser</li>
               	</ul>
               </p>
             </div>
