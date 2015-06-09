@@ -364,6 +364,88 @@
             </div>
           </div>
         </li>
+        <li>
+          <div class="timeline-badge warning"><i>1999</i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Schmilka --> (Löningen) Ellenstedt (39 Etappen)</h4>
+              <p><small class="text-muted">18.8. – 21.8.</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>
+              	<ul>
+              		<li>Harry Karge neuer Chief</li>
+              		<li>Reiterausfall in Gottschdorf und Bauer Hönsch</li>
+              		<li>Fähre auf Elbe bei Ferchland</li>
+              		<li>Reiterausfall auf 3 Etappen Kossebau-Nienwalde-Laase</li>
+              		<li>Seerau – Tierarzt Ulli reitet Etappe</li>
+              		<li>das Schachbrett</li>
+              		<li>Pferdeausfall hinter Bassum (Antje Cordes auf Eisels Pferd)</li>
+              		<li>Abbruch in Ellenstedt weil Pferd im Sumpf</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge danger"><i>1998</i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Bakum (Lohe) --> Schmilka (39 Etappen)</h4>
+              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>17.8. – 21.8.</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>
+              	<ul>
+              		<li>Ehrung vom Bürgermeister von Bassum</li>
+              		<li>Faltboot auf Elbe bei Ferchland</li>
+              		<li>Nebenroute durch Saxonia Pony Express (Sächsischer Pony Express – 6 Etappen)</li>
+              		<li>Claudias Superküche</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge warning"><i>1997</i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Schmilka --> Ellenstedt (bei Bremen) (38 Etappen)</h4>
+              <p><small class="text-muted">20.8. – 23.8.</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>
+              	<ul>
+              		<li>wegen Hochwasser in der Tschechei große Verspätung an der Grenze</li>
+              		<li>Kanu auf Elbe bei Ferchland</li>
+              		<li>wegen Unwetter Post teilweise beschädigt</li>
+              		<li>alle Org. im Einsatz zur Absicherung der Etappe von M .Weißbach</li>
+              		<li>Pony-Club Ellenstedt richtet große Abschlussveranstaltung aus</li>
+              		<li>18 Std. Verspätung in Ellenstedt</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge danger"><i>1996</i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Bassum --> Schmilka (36 Etappen)</h4>
+              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>19.8. – 22.8.</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>
+              	<ul>
+              		<li>Michael Schrock neuer Chief</li>
+              		<li>Kanu auf Elbe bei Ferchland</li>
+              		<li>Sperrung Autobahnbrücke Lipten - Schwarzheide</li>
+              		<li>Abordnung fährt über Baver City (Strazek) nach Suchdol nad Odru</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </li>
     </ul>
 
 	
