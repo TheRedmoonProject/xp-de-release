@@ -110,6 +110,17 @@
 		<li><a href="#">2002</a></li>
 		<li><a href="#">2001</a></li>
 		<li><a href="#">2000</a></li>
+		<li><a href="#">1999</a></li>
+		<li><a href="#">1998</a></li>
+		<li><a href="#">1997</a></li>
+		<li><a href="#">1996</a></li>
+		<li><a href="#">1995</a></li>
+		<li><a href="#">1994</a></li>
+		<li><a href="#">1993</a></li>
+		<li><a href="#">1992</a></li>
+		<li><a href="#">1991</a></li>
+		<li><a href="#">1990</a></li>
+		<li><a href="#">1989</a></li>
 	</ul>
 	</div>
 	<div class="col-md-10">
@@ -441,6 +452,124 @@
               		<li>Kanu auf Elbe bei Ferchland</li>
               		<li>Sperrung Autobahnbrücke Lipten - Schwarzheide</li>
               		<li>Abordnung fährt über Baver City (Strazek) nach Suchdol nad Odru</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge warning"><i>1995</i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Schmilka --> Fitzen (bei Hamburg) (27 Etappen)</h4>
+              <p><small class="text-muted">17.8. - 19.8.</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>
+              	<ul>
+              		<li>Sperrung Tangermünder Brücke</li>
+              		<li>Staffellauf Lipten – Calau</li>
+              		<li>Deutsche Welle TV begleitet XP bei Dömitz</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge danger"><i>1994</i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Laase --> Schmilka (23 Etappen)</h4>
+              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>18.8. - 20.8.</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>
+              	<ul>
+              		<li>1. Jahr ohne Roland Schrock – Anne Schrock neuer Chief</li>
+              		<li>Altendorf-Schmilka zu Fuß absolviert</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge warning"><i>1993</i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Karze --> Schmilka (bei Hamburg) (27 Etappen)</h4>
+              <p><small class="text-muted">17.8. - 19.8.</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>
+              	<ul>
+              		<li>Sperrung Stadt Tangermünde</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge danger"><i>1992</i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Schmilka --> Pechau (bei Magdeburg) (19 Etappen)</h4>
+              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>20.8. - 22.8.</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>
+              	<ul>
+              		<li>Dauerregen - Post aufgeweicht/beschädigt</li>
+              		<li>Große Abschlussveranstaltung in Pechau beim Indian Council</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge warning"><i>1991</i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Brandenburg (Havel) --> Schmilka (15 Etappen)</h4>
+              <p><small class="text-muted">4.7. – 6.7.</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>
+              	<ul>
+              		<li>erstmals Funker als Streckensicherung</li>
+              		<li>anschließend Konvoi nach Mnisek (Golden City)</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge warning"><i>1990</i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Schmilka --> Berlin (Bohnsdorf) (15 Etappen)</h4>
+              <p><small class="text-muted">29.6. - 30.6.</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>
+              	<ul>
+              		<li>anlässlich 130. Anniversary: US-Pony Express schickte Post nach Praha (Postmuzeum) und dann auf Strecke</li>
+              		<li>Währungsunion während des Rittes, so keine Abschlussveranstaltung in Berlin-Karshorst, Route umgelegt nach Bohnsdorf</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge warning"><i>1989</i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Dresden (Elbwiese) --> Schmilka (3 Etappen)</h4>
+              <p><small class="text-muted">21.07. 15:00 – 22:00</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>
+              	<ul>
+              		<li>anschließend Konvoi nach Mnisek</li>
               	</ul>
               </p>
             </div>
