@@ -361,7 +361,7 @@
           <div class="timeline-panel">
             <div class="timeline-heading">
               <h4 class="timeline-title">Löningen --> Schmilka (41 Etappen)</h4>
-              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>13.8. – 18.8.</small></p>
+              <p><small class="text-muted">13.8. – 18.8.</small></p>
             </div>
             <div class="timeline-body">
               <p>
@@ -403,7 +403,7 @@
           <div class="timeline-panel">
             <div class="timeline-heading">
               <h4 class="timeline-title">Bakum (Lohe) --> Schmilka (39 Etappen)</h4>
-              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>17.8. – 21.8.</small></p>
+              <p><small class="text-muted">17.8. – 21.8.</small></p>
             </div>
             <div class="timeline-body">
               <p>
@@ -443,7 +443,7 @@
           <div class="timeline-panel">
             <div class="timeline-heading">
               <h4 class="timeline-title">Bassum --> Schmilka (36 Etappen)</h4>
-              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>19.8. – 22.8.</small></p>
+              <p><small class="text-muted">19.8. – 22.8.</small></p>
             </div>
             <div class="timeline-body">
               <p>
@@ -480,7 +480,7 @@
           <div class="timeline-panel">
             <div class="timeline-heading">
               <h4 class="timeline-title">Laase --> Schmilka (23 Etappen)</h4>
-              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>18.8. - 20.8.</small></p>
+              <p><small class="text-muted">18.8. - 20.8.</small></p>
             </div>
             <div class="timeline-body">
               <p>
@@ -513,7 +513,7 @@
           <div class="timeline-panel">
             <div class="timeline-heading">
               <h4 class="timeline-title">Schmilka --> Pechau (bei Magdeburg) (19 Etappen)</h4>
-              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>20.8. - 22.8.</small></p>
+              <p><small class="text-muted">20.8. - 22.8.</small></p>
             </div>
             <div class="timeline-body">
               <p>
