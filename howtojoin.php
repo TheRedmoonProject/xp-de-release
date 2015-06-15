@@ -91,7 +91,7 @@
 	</nav>
 
 <div class="container">
-<--! CONTENT !!!!!!!!!!!!!!!!!!! -->
+Es gibt mehrere Möglichkeiten am Pony Express teilzunehmen, sowohl als Reiter, Manager, Funker oder auch nur als Besucher. Um als Reiter teilzunehmen, muss man bestimmte Bedinungen erfüllen, die auf der Untersite aufgelistet sind.
 </div>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script	src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
