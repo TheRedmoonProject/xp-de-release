@@ -11,10 +11,10 @@ var duration =  this.duration;
 
 var progtime = 100 / duration * currentTime;
 
-player.children('.pbar').children('.pbarval').animation(
+player.children('.pbar').children('.pbarval').animate(
   {
     'width': progtime + '%'
-  },fast);
+  },'slow','linear');
 
 
 
