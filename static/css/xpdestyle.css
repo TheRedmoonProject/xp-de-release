@@ -1,3 +1,23 @@
+.player .ppanel {
+  font-size: 20px;
+  background-color: rgb(60, 59, 59);
+  color: white;
+}
+.player .ppanel .pbtn {
+  padding: 0.1em;
+  padding-left: 0.3em;
+  display: block;
+  width: 1.6em;
+}
+.player .pbar {
+  height: 3px;
+  background-color: transparent;
+}
+.player .pbar .pbarval {
+  height: 5px;
+  background-color: rgb(18, 54, 195);
+  transition: width 0.8s;
+}
 
 
 .dark {
