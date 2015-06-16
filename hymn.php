@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -93,12 +92,22 @@
 
 	<div class="container content">
 		
+		<div class="player">
+  			<div class="pbar"><div class="pbarval"></div></div>
+  			<div class="ppanel">
+    				<div class="pbtn" data-action="play">►</div>
+  			</div>
+			<audio id="paudio">
+  				<source src="https://p.scdn.co/mp3-preview/6467eeea7ebe67366db111d1ecfda67eadf3eb44" type="audio/mpeg">
+			</audio>	
+		</div>
 	</div>
 	
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script	src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<!-- Include all compiled plugins (below), or include individual files as needed -->
-	<script	src="http://cdn.livespawn.de/static/bootstrap/3_3_4/bootstrap.js"></script>
-	<script	src="static/jquery.easing.min.js"></script>
+	<script src="http://cdn.livespawn.de/static/bootstrap/3_3_4/bootstrap.js"></script>
+	<script src="static/jquery.easing.min.js"></script>
+	<script src="static/js/hicksAudio.js"></script>
 </body>
 </html>
