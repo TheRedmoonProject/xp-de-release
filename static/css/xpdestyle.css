@@ -8,17 +8,27 @@
   padding-left: 0.3em;
   display: block;
   width: 1.6em;
+  cursor: pointer;
 }
 .player .pbar {
   height: 3px;
   background-color: transparent;
 }
 .player .pbar .pbarval {
-  width:0%;
+  position: absolute;
+  width: 0%;
   height: 5px;
   background-color: rgb(18, 54, 195);
 }
-
+.player .pbar .pbarvalbtn {
+  position: absolute;
+  margin-top: -0.4em;
+  border-radius: 4em;
+  width: 1em;
+  height: 1em;
+  background-color: rgb(179, 179, 179);
+  cursor: pointer;
+}
 
 .dark {
 	background-color: rgb(50, 50, 53);
