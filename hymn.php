@@ -93,7 +93,10 @@
 	<div class="container content">
 		
 		<div class="player">
-  			<div class="pbar"><div class="pbarval"></div></div>
+  			<div class="pbar">
+  				<div class="pbarval"></div>
+  				<div class="pbarvalbtn" dragable="true"></div>
+  			</div>
   			<div class="ppanel">
     				<div class="pbtn" data-action="play">►</div>
   			</div>
