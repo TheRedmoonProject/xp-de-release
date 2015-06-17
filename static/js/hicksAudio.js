@@ -17,7 +17,6 @@ audioUpdate(progtime);
 });
 
 player.children('.pbar').on('click', function (e){
-  console.log(e);
   if(e.target.className == "pbar" || e.target.className == "pbarval"){
   var maxwidth = player.children('.pbar').width();
   var progtime = e.offsetX * 100 / maxwidth;
@@ -32,12 +31,34 @@ player.children('.pbar').on('click', function (e){
     console.log(false);
   }
 });
-player.children('.pbar').children('.pbarvalbtn').on('mousemove',function(e){
-  
-  player.children('.pbar').children('.pbarvalbtn').on('mousedown',function(e){
-    console.log(e);
+
+player.children('.pbar').children('.pbarvalbtn').on('mousedown',function(e){
+  var old = e.pageX;
+  player.children('.pbar').children('.pbarvalbtn').on('mousemove',function(e){
+    console.log('MouseMove');
+    var pos = parseInt(player.children('.pbar').children('.pbarvalbtn').css('margin-left'));
+    var poschange = e.pageX - old;
+    console.log(poschange);
+    var newpos = pos + poschange;
+    console.log(newpos);
+    player.children('.pbar').children('.pbarvalbtn').css('margin-left', newpos + 'px' );
+    e.stopPropagation();
   });
-}),
+  player.children('.pbar').children('.pbarvalbtn').on('mouseup',function(){
+    player.children('.pbar').children('.pbarvalbtn').off('mousemove');
+    player.children('.pbar').children('.pbarvalbtn').off('mouseup');
+    player.children('.pbar').children('.pbarvalbtn').off('mouseleave');
+    console.log('mouseUp');
+  });
+  player.children('.pbar').children('.pbarvalbtn').on('mouseleave',function(){
+    player.children('.pbar').children('.pbarvalbtn').off('mousemove');
+    player.children('.pbar').children('.pbarvalbtn').off('mouseup');
+    player.children('.pbar').children('.pbarvalbtn').off('mouseleave');
+    console.log('mouseLeave');
+  });
+});
+
+
 
 function audioUpdate (progtime){
 
