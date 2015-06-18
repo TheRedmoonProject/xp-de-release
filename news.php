@@ -94,14 +94,70 @@
 	<div class="row">
 	<div class="col-md-12">
 	<h2>Aktuelles</h2>
-	<div class="news"><div class="background" style="background-image:url(static/destiny.png);"></div>
-	<div class="title"><h2>Testnachicht</h2></div>
-	<article>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</article>
+
+	<div class="news">
+		<div class="background" style="background-image:url(static/destiny.png);"></div>
+		<div class="title"><h2>Ansprechpartner für die entsprechenden Streckenabschnitte</h2></div>
+		<article>
+		    <table align="center">
+	                <tr><td align="center">Rütenbrock nach Wehlen</td><td align="center">Wehlen nach Steinberg</td><td align="center">Steinberg nach Sebnitz</td></tr>
+	                <tr><td align="center">Martin Bornfleth</td><td align="center">Eva Schulze</td><td align="center">Peter Palm</td></tr>
+	                <tr><td align="center">Höllinger Str. 5</td><td align="center">Belziger Ring 21</td><td align="center">Carolastr. 23</td></tr>
+	                <tr><td align="center">27243 Beckstedt</td><td align="center">12689 Berlin</td><td align="center">01855 Sebnitz</td></tr>
+	                <tr><td align="center">Tel: 0173 60 76 685</td><td align="center">Tel: 030 6666 789 2 (mit AB)</td><td align="center">Tel: 0176 55 45 32 74</td></tr>
+	                <tr><td align="center">&nbsp;</td><td align="center">Handy: 0162 81 12 978</td><td align="center">&nbsp;</td></tr>
+	                <tr><td align="center">&nbsp;</td><td align="center">Mail: management@xp-de.com</td><td align="center">&nbsp;</td></tr>
+	            </table>
+		</article>
 	</div>
+
+	<div class="news">
+		<div class="background" style="background-image:url(static/destiny.png);"></div>
+		<div class="title"><h2>Vereidigungen</h2></div>
+		<article>Die Vereidigungen der Reiter finden an folgenden Terminen statt:
+	            <table>
+	                <tr><td>Sachsen</td><td>Sebnitz</td><td>23.05.2015 18:00 Uhr</td></tr>
+	                <tr><td>Berlin</td><td>Wilhelmshagen</td><td>06.06.2015 17:00 Uhr</td></tr>
+	                <tr><td>Niedersachsen</td><td>Vrees</td><td>18.07.2015 17:00 Uhr</td></tr>
+	                <tr><td>Niedersachsen</td><td>Mechtersen</td><td>19.07.2015 14:00 Uhr</td></tr>
+	                </tr>
+	            </table>
+	        </article>
 	</div>
+
+	<div class="news">
+		<div class="background" style="background-image:url(static/destiny.png);"></div>
+		<div class="title"><h2>XP 2015</h2></div>
+		<article>Der deutsche Pony Express 2015 findet vom 15.08.2015 bis zum 19.08.2015 statt. Die Etappenzeiten sind in der Rubrik Startzeiten zu finden.
+
+Da der XP 2014 ein Sternritt aufgrund des 30. Rittes des tschechischen XP war, werden wir 2015 nocheinmal in die östliche Richtung starten - von Rütenbrock nach Sebnitz. </article>
+	</div>
+
+	<div class="news">
+		<div class="background" style="background-image:url(static/destiny.png);"></div>
+		<div class="title"><h2>XP 2015</h2></div>
+		<article>Howdy Ponyexpress Reiter,<br /><br />
+            hiermit teile ich euch mit, dass ich leider gezwungen bin, das Amt des
+            Ponyexpress-Chiefmanagers Germany  zum 31.12.2014 niederzulegen. Zum selben
+            Zeitpunkt trete ich aus dem Country- & Western-Club “The Plains Riders”
+            e.V. aus und der vorgenannte Verein erhebt für sich den Anspruch, den
+            Ponyexpress selbst zu organisieren und zu führen. <br /><br />
+            Ich wünsche den neuen Organisatoren viel Erfolg und hoffe, dass der XP noch
+            lange bestehen bleibt.<br /><br />
+            Bei euch bedanke ich mich ganz herzlich für die vielen Jahre des
+            Vertrauens, das mir entgegengebracht wurde und wünsche euch allzeit einen
+            guten Ritt.<br /><br />
+            Mit einem kräftigen Yeehaw<br /><br />
+            Thomas</article>
+	</div>
+
+	</div>
+
+	
 	</div>
 	</div>
 	
+
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script	src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<!-- Include all compiled plugins (below), or include individual files as needed -->
